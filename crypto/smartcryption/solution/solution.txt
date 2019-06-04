@@ -1,0 +1,3 @@
+Each line is an MD5 hash of a single character. A simple lookup on any rainbow table will show the characters. For example, putting all the hashes into crackstation.net will give the flag.
+
+flag{md_cry}
