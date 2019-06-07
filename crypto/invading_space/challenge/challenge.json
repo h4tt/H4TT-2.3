@@ -1,0 +1,14 @@
+{
+    "title": "Invading Space",
+    "category": "crypto",
+    "description": "",
+    "link": "",
+    "points": "40",
+    "flag": "flag{s33ingisb3li3ving}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        "invading_space.png"
+    ],
+    "author": "Forest Anderson"
+  }

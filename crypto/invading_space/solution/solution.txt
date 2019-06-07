@@ -1,0 +1,10 @@
+This challenge has braille as the enemies of a space invader game. Once translated, you'll get
+
+The flag is
+all lowercase
+in flag format
+s33ingisb3li3ving
+
+So the flag is
+
+flag{s33ingisb3li3ving}
