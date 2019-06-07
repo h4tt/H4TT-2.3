@@ -1,0 +1,4 @@
+This can be decoded with an old telephone keypad.
+https://en.wikipedia.org/wiki/Telephone_keypad
+
+flag{texting_in_the_nineties}
