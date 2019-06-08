@@ -1,0 +1,8 @@
+Go to https://bywardmarketsquare.com/.
+By poking around you can discover the images directory: https://bywardmarketsquare.com/images/
+There are few enough files & folders that you can manually spider the site and discover
+https://bywardmarketsquare.com/images/map/ which contains a file: WS_FTP.LOG
+A little bit of research will reveal that WS_FTP is an FTP program (as you could guess by the name).
+https://en.wikipedia.org/wiki/WS_FTP
+
+flag{WS_FTP}
