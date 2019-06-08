@@ -1,7 +1,7 @@
 {
     "title": "Historic",
     "category": "recon",
-    "description": "How does the administrator of https://bywardmarketsquare.com put files on the server? format: flag{PROGRAM_NAME}",
+    "description": "How does the administrator of https://bywardmarketsquare.com put files on the server? format: flag{PROGRAM_NAME}\nNote: You are not permitted to, nor do you need to, do any kind of unauthorized use of any infrastructure for this challenge. Strictly Reconnaissance.",
     "link": "https://bywardmarketsquare.com",
     "points": "40",
     "flag": "flag{WS_FTP}",
