@@ -3,7 +3,7 @@
     "category": "recon",
     "description": "How does the administrator of https://bywardmarketsquare.com put files on the server? format: flag{PROGRAM_NAME}",
     "link": "https://bywardmarketsquare.com",
-    "points": "30",
+    "points": "40",
     "flag": "flag{WS_FTP}",
     "max_tries": "99",
     "active": "0",
