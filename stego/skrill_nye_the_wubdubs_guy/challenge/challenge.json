@@ -1,0 +1,14 @@
+{
+    "title": "Skrill Nye the Wubdubs Guy",
+    "category": "stego",
+    "description": "",
+    "link": "",
+    "points": "50",
+    "flag": "flag{dubz-is-cr4zy}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        "challenge.mp3"
+    ],
+    "author": "Dave Petrasovic"
+  }

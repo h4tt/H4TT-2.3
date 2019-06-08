@@ -1,0 +1,4 @@
+If you open the song in a program that shows the spectogram and look at the weird bird sounds around 12 seconds,
+you will see the flag there.
+
+flag{dubz-is-cr4zy}
