@@ -1,0 +1,3 @@
+Simply open the mp3 with anything that will show you the album art and look for the flag in that image.
+
+flag{4lbum-4rt}

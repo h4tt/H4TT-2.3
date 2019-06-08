@@ -1,0 +1,14 @@
+{
+    "title": "Art",
+    "category": "stego",
+    "description": "",
+    "link": "",
+    "points": "10",
+    "flag": "flag{4lbum-4rt}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        "song1.mp3"
+    ],
+    "author": "Dave Petrasovic"
+  }
