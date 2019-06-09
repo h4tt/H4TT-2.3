@@ -1,0 +1,3 @@
+You can crack the password with a dictionary attack using rockyou.txt
+
+flag{unarchiv3d-th3-g00d5}
