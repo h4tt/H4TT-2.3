@@ -3,7 +3,7 @@
     "category": "stego",
     "description": "",
     "link": "",
-    "points": "50",
+    "points": "30",
     "flag": "flag{dubz-is-cr4zy}",
     "max_tries": "99",
     "active": "0",
