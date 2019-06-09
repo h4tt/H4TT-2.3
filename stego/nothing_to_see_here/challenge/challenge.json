@@ -1,0 +1,14 @@
+{
+    "title": "Nothing To See Here",
+    "category": "stego",
+    "description": "",
+    "link": "",
+    "points": "50",
+    "flag": "",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        "challenge.txt"
+    ],
+    "author": "Dave Petrasovic"
+  }
