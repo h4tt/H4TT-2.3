@@ -1,0 +1,13 @@
+Stepping through the binary of the file and looking only at the blue values, make an array of all of the 0s and 1s until hitting the delimiter 1111111111111110.
+Then take that array (minus the delimiter) and convert it from binary to a string of characters
+
+the included steg.py file will help automate this.
+source code: http://www.mediafire.com/file/hyjimlh8pel7q9x/code.txt
+
+Alternatively, you can search the internet for "steganography 1111111111111110" and find the same python script.
+https://github.com/AlMikFox3/LSB-Steganography/blob/master/PySteganography.py
+If you can install PIL and run the following command, the flag will pop out
+
+python steg.py -d gpu.png
+
+flag{whaT_yoUR_EyEs_doNt_See}

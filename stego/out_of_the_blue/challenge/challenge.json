@@ -1,0 +1,14 @@
+{
+    "title": "Out of the Blue",
+    "category": "stego",
+    "description": "Hint: until 1111111111111110",
+    "link": "",
+    "points": "100",
+    "flag": "flag{whaT_yoUR_EyEs_doNt_See}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        "gpu.png"
+    ],
+    "author": "Dave Petrasovic"
+  }
