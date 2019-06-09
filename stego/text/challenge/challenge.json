@@ -1,0 +1,14 @@
+{
+    "title": "Text",
+    "category": "stego",
+    "description": "",
+    "link": "",
+    "points": "30",
+    "flag": "flag{psych0-t3xt}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        "challenge.txt"
+    ],
+    "author": "Dave Petrasovic"
+  }

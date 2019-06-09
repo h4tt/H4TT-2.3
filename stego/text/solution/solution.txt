@@ -1,0 +1,6 @@
+This can be done manually or with a script.
+Every 50th character is a character from the flag string.
+Many of these characters only appear once in the entire file
+and so they should be somewhat easy to spot.
+
+flag{psych0-t3xt}
