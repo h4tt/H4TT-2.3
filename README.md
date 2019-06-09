@@ -14,6 +14,8 @@
 ## stego
 [Art | 10](https://github.com/h4tt/H4TT-2.3/tree/master/stego/art)
 
+[Split The Atom | 20](https://github.com/h4tt/H4TT-2.3/tree/master/stego/split_the_atom)
+
 [Skrill Nye the Wubdubs Guy | 30](https://github.com/h4tt/H4TT-2.3/tree/master/stego/skrill_nye_the_wubdubs_guy)
 
 [Text | 30](https://github.com/h4tt/H4TT-2.3/tree/master/stego/text)
