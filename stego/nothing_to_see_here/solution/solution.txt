@@ -1,0 +1,6 @@
+This is best solved with the following python script:
+https://github.com/vgmoose/ascii-steganography
+
+Optional hint: ascii
+
+flag{1nv1s1bl3-1nk}
