@@ -1,0 +1,14 @@
+{
+    "title": "FerRARi",
+    "category": "forensics",
+    "description": "I found this archive, but it won't open. Can you figure out the password?",
+    "link": "",
+    "points": "40",
+    "flag": "flag{unarchiv3d-th3-g00d5}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        "challenge.rar"
+    ],
+    "author": "Dave Petrasovic"
+  }
