@@ -1,0 +1,14 @@
+{
+    "title": "Split The Atom",
+    "category": "stego",
+    "description": "",
+    "link": "",
+    "points": "35",
+    "flag": "flag{mushr00m-cl0ud}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        "atom.png"
+    ],
+    "author": "Dave Petrasovic"
+  }

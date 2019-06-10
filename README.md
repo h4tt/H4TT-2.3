@@ -18,5 +18,9 @@
 
 [Text | 30](https://github.com/h4tt/H4TT-2.3/tree/master/stego/text)
 
+[Split The Atom | 35](https://github.com/h4tt/H4TT-2.3/tree/master/stego/split_the_atom)
+
 [Nothing To See Here | 50](https://github.com/h4tt/H4TT-2.3/tree/master/stego/nothing_to_see_here)
+
+[Out of the Blue | 100](https://github.com/h4tt/H4TT-2.3/tree/master/stego/out_of_the_blue)
 

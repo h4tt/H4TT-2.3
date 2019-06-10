@@ -1,0 +1,5 @@
+There is an archive attached to atom.png
+It can be extracted with:
+binwalk -e atom.png
+
+flag{mushr00m-cl0ud}
