@@ -3,7 +3,7 @@
     "category": "stego",
     "description": "",
     "link": "",
-    "points": "20",
+    "points": "35",
     "flag": "flag{mushr00m-cl0ud}",
     "max_tries": "99",
     "active": "0",
