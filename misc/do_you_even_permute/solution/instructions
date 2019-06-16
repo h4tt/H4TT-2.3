@@ -1,0 +1,13 @@
+Password has 6-8 characters
+Password only contains letters (upper and lower), and numbers
+Every 2nd character must be an odd number
+
+How many different passwords are there?
+
+
+Password has 8-10 characters
+Password only contains letters (upper and lower), and numbers
+The password must have three consecutive characters in at least one place
+The sum of all the numbers in the password can't be greater than it's length
+
+How many different passwords are there?
