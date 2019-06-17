@@ -1,0 +1,14 @@
+{
+    "title": "Diggy Diggy Hole!",
+    "category": "web",
+    "description": "https://www.youtube.com/watch?v=ytWz0qVvBZ0",
+    "link": "https://h4tt.ca/",
+    "points": "40",
+    "flag": "flag{i_4m_dw4rf}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson"
+  }
