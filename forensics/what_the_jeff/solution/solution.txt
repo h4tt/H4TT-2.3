@@ -1,4 +1,6 @@
-An easy way to do this is use git bisect.
+The easiest way to do this is to use Git blame on Github. In the AUTHORS file, you are able to click on the line number of Jeff Welch, then have easy access to the commit.
+
+Another easy way to do this is use git bisect.
 
 git checkout master
 git bisect start
