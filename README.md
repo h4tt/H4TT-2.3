@@ -9,7 +9,12 @@
 [Invading Space | 40](https://github.com/h4tt/H4TT-2.3/tree/master/crypto/invading_space)
 
 ## forensics
+[What the Jeff? | 40](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/what_the_jeff)
+
 [Zippy | 40](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/zippy)
+
+## misc
+[Do you even permute? | 35](https://github.com/h4tt/H4TT-2.3/tree/master/misc/do_you_even_permute)
 
 ## recon
 [Historic | 40](https://github.com/h4tt/H4TT-2.3/tree/master/recon/historic)

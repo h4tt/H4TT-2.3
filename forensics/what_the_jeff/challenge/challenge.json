@@ -1,0 +1,14 @@
+{
+    "title": "What the Jeff?",
+    "category": "forensics",
+    "description": "In which commit did Jeff Welch get added to the AUTHORS file of React repo on Github?\nThe flag is flag{commit_hash_lowercase}",
+    "link": "https://github.com/facebook/react/blob/master/AUTHORS",
+    "points": "25",
+    "flag": "flag{0d8aa8ff654c31b776195fcced48f1320f062f3c}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson"
+  }
