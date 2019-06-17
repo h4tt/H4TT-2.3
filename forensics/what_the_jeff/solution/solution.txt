@@ -1,0 +1,13 @@
+An easy way to do this is use git bisect.
+
+git checkout master
+git bisect start
+git bisect bad
+git checkout `git rev-list --max-parents=0 HEAD | tail -n 1`
+git bisect good
+
+from here, you can use `git bisect bad` for anything that has Jeff Welch in it, and `git bisect good` for anything that doesn't have them.
+
+Note - the lengthy checkout is used to checkout the first commit on master.
+
+flag{0d8aa8ff654c31b776195fcced48f1320f062f3c}
