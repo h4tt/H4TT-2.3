@@ -1,0 +1,4 @@
+When using the dig tool on h4tt.ca, you'll be able to see a record that contains the flag
+Command: dig h4tt.ca any
+
+flag{i_4m_dw4rf}

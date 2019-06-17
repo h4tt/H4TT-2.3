@@ -1,0 +1,9 @@
+You can crack the password with a dictionary attack using rockyou.txt
+
+Once you have downloaded rockyou.txt and installed John the Ripper, you can run the following commands:
+zip2john challenge.rar > hash.txt
+john --format=zip --wordlist=rockyou.txt hash.txt
+
+archive password: darkangel
+
+flag{n0t-s0-s3cur3-zip}
