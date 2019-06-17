@@ -8,6 +8,9 @@
 
 [Invading Space | 40](https://github.com/h4tt/H4TT-2.3/tree/master/crypto/invading_space)
 
+## forensics
+[Zippy | 20](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/zippy)
+
 ## recon
 [Historic | 40](https://github.com/h4tt/H4TT-2.3/tree/master/recon/historic)
 
