@@ -8,6 +8,9 @@
 
 [Invading Space | 40](https://github.com/h4tt/H4TT-2.3/tree/master/crypto/invading_space)
 
+## forensics
+[What the Jeff? | 40](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/what_the_jeff)
+
 ## recon
 [Historic | 40](https://github.com/h4tt/H4TT-2.3/tree/master/recon/historic)
 
