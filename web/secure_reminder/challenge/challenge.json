@@ -1,0 +1,14 @@
+{
+    "title": "Secure Reminder (Healthbiotics track)",
+    "category": "web",
+    "description": "I just needed somewhere to keep some important information",
+    "link": "healthbiotics.h4tt.ca",
+    "points": "15",
+    "flag": "flag{c0mm3nt_n0t_4_s3cr3ts}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson"
+  }
