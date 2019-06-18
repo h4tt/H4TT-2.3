@@ -1,0 +1,14 @@
+{
+    "title": "The Next TikTok Jam",
+    "category": "stego",
+    "description": "We intercepted this sick beat that was held under lock and key. Not sure why...",
+    "link": "",
+    "points": "75",
+    "flag": "flag{c4pac1ty_4_h4x}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        "cool.ogg"
+    ],
+    "author": "Matt Penny"
+  }

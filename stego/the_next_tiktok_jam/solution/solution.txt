@@ -1,0 +1,10 @@
+1) First notice that although the track is stereo, the song only plays in the
+   right channel
+2) Open the audio file in a program like Audacity and remove the right channel
+   (actual song). Trim the silent ends of the left channel and turn its volume
+   up so it is audible
+3) The left channel is (Slow Scan television) SSTV audio. Run it through a
+   program/app like Robot36 for Android to decode the image, which contains the
+   flag
+
+flag{c4pac1ty_4_h4x}
