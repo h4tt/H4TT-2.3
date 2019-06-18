@@ -1,0 +1,14 @@
+{
+    "title": "One two miss a few (Healthbiotics track)",
+    "category": "web",
+    "description": "Don't count too high, the view gets ugly!",
+    "link": "healthbiotics.h4tt.ca",
+    "points": "35",
+    "flag": "flag{hiding_in_pl4in_incr3m3nt}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson"
+  }
