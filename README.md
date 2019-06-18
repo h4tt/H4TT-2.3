@@ -37,7 +37,5 @@
 [Out of the Blue | 100](https://github.com/h4tt/H4TT-2.3/tree/master/stego/out_of_the_blue)
 
 ## web
-[One two miss a few (Healthbiotics track) | 35](https://github.com/h4tt/H4TT-2.3/tree/master/web/one_two_miss_a_few)
-
 [Diggy Diggy Hole! | 40](https://github.com/h4tt/H4TT-2.3/tree/master/web/diggy_diggy_hole)
 
