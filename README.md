@@ -9,7 +9,7 @@
 [Invading Space | 40](https://github.com/h4tt/H4TT-2.3/tree/master/crypto/invading_space)
 
 ## forensics
-[What the Jeff? | 40](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/what_the_jeff)
+[What the Jeff? | 25](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/what_the_jeff)
 
 [Zippy | 40](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/zippy)
 
@@ -29,6 +29,8 @@
 [Split The Atom | 35](https://github.com/h4tt/H4TT-2.3/tree/master/stego/split_the_atom)
 
 [Nothing To See Here | 50](https://github.com/h4tt/H4TT-2.3/tree/master/stego/nothing_to_see_here)
+
+[The Next TikTok Jam | 75](https://github.com/h4tt/H4TT-2.3/tree/master/stego/the_next_tiktok_jam)
 
 [Out of the Blue | 100](https://github.com/h4tt/H4TT-2.3/tree/master/stego/out_of_the_blue)
 
