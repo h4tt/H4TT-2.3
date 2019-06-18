@@ -1,0 +1,9 @@
+version: '3'
+services:
+  bash-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 10000:4000
+    

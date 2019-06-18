@@ -1,0 +1,15 @@
+flag up a folder
+
+flag in css
+flag in html
+flag in the cookies
+
+
+A note from the developers
+
+This site was built on top of a custom bash web server. The reason for the custom server is that there are too many vulnerabilities in the standard ones, like Apache or Nginx. To ensure that our products are secure, we create them ourselves. You can take a look at the source code for yourself here (TODO). Note that we have changed this version a bit for this customer.
+
+To anyone who think they can hack this site, don't even try. Evilcorp ensures the highest level of security for its clients.
+
+Nat
+Junior Devloper, Evilcorp
