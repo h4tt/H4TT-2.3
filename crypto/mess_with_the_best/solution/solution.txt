@@ -1,0 +1,3 @@
+The site https://md5decrypt.net/en/Leet-translator was used at level 3 to encode the flag. To reverse, you can either figure out which characters are what, or try to plug something in that will give the same output.
+
+flag{hack_the_planet}
