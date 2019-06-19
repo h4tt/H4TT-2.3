@@ -1,0 +1,14 @@
+{
+    "title": "Spilled Corruption",
+    "category": "forensics",
+    "description": "I had a super important message, but I spilt some grape juice on it! Can you recover it?",
+    "link": "",
+    "points": "50",
+    "flag": "flag{n0t_t00_br0k3_2_fix}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        "juice.png"
+    ],
+    "author": "Forest Anderson"
+  }

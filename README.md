@@ -13,6 +13,8 @@
 
 [Zippy | 40](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/zippy)
 
+[Spilled Corruption | 50](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/spilled_corruption)
+
 ## misc
 [Do you even permute? | 35](https://github.com/h4tt/H4TT-2.3/tree/master/misc/do_you_even_permute)
 
