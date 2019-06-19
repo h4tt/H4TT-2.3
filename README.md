@@ -9,9 +9,15 @@
 [Invading Space | 40](https://github.com/h4tt/H4TT-2.3/tree/master/crypto/invading_space)
 
 ## forensics
+[Proof of Containerize | 15](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/proof_of_containerize)
+
 [What the Jeff? | 25](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/what_the_jeff)
 
+[Who's the boss | 35](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/whos_the_boss)
+
 [Zippy | 40](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/zippy)
+
+[Into the Matrix | 60](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/into_the_matrix)
 
 ## misc
 [Do you even permute? | 35](https://github.com/h4tt/H4TT-2.3/tree/master/misc/do_you_even_permute)
