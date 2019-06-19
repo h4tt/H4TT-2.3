@@ -1,0 +1,14 @@
+{
+    "title": "Who's the boss",
+    "category": "forensics",
+    "description": "D0n't ev3n try to h4xx, ur n0t sy5 4dmin",
+    "link": "https://hub.docker.com/r/angelonfira/company-secrets",
+    "points": "35",
+    "flag": "flag{d0nt_d0ubt_my_cr3ds}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson"
+  }

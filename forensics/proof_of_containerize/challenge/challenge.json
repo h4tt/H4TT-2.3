@@ -1,0 +1,14 @@
+{
+    "title": "Proof of Containerize",
+    "category": "forensics",
+    "description": "Do you even Docker?",
+    "link": "https://hub.docker.com/r/angelonfira/company-secrets",
+    "points": "15",
+    "flag": "flag{d0cking_c0mp13t3}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson"
+  }

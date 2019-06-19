@@ -1,0 +1,3 @@
+This flag is hidden in the instructions that built the image. By using the tool Dive, https://github.com/wagoodman/dive, you can see the instructions that add an extra file, and then delete it. The flag is the file name.
+
+flag{r34ding_betw33n_th3_1in3s}
