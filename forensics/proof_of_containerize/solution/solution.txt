@@ -1,0 +1,6 @@
+By starting the container interactively, you will be able to see a file in the root directory called flag1.txt. You can open this file to get the flag1.txt.
+
+docker run -it angelonfira/company-secrets
+cat flag1.txt
+
+flag{d0cking_c0mp13t3}
