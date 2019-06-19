@@ -1,0 +1,15 @@
+This challenge requires a few steps to recover the QR code.
+You can find another great tutorial at https://www.robertxiao.ca/hacking/ctf-writeup/mma2015-qrcode/
+
+
+1. Recover patterns
+    - Recover the 3 position patterns
+    - Recover the alignment patterns
+    - Recover timing
+2. Recover format information
+    - Enough format information was left in to see that the only format information string that would work is mask pattern 3
+    https://www.thonky.com/qr-code-tutorial/format-version-tables#about-version-information-strings
+3. Use a QR code reader
+    - There is enough information at this point to leave the rest of the corruption to error correction.
+
+flag{n0t_t00_br0k3_2_fix}
