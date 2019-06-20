@@ -1,0 +1,25 @@
+version: '3'
+services:
+  # Nginx
+  nginx-ssl-proxy:
+    build:
+      context: nginx/
+      dockerfile: nginx/Dockerfile
+    restart: always
+    environment:
+      SERVERNAME: scoreboard.h4tt.ca
+      EXTRANAMES: healthbiotics.h4tt.ca
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - "/etc/letsencrypt"
+
+  #Healthbiotics
+  nginx-ssl-proxy:
+    build:
+      context: healthbiotics/
+      dockerfile: healthbiotics/Dockerfile
+    ports:
+      - "9000:9000"
+    restart: always
