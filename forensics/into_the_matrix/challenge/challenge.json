@@ -1,0 +1,14 @@
+{
+    "title": "Into the Matrix (Docker track 3)",
+    "category": "forensics",
+    "description": "It's finally time to face the creator.",
+    "link": "https://hub.docker.com/r/angelonfira/company-secrets",
+    "points": "80",
+    "flag": "flag{r34ding_betw33n_th3_1in3s}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson"
+  }

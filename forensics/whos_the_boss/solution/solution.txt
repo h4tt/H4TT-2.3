@@ -1,0 +1,6 @@
+You'll find this flag file in the /app folder, but you won't have permission to open it. You have to start the container as root to be able to access the file.
+
+docker run -it -u 0 angelonfira/company-secrets
+cat app/flag2.txt
+
+flag{d0nt_d0ubt_my_cr3ds}
