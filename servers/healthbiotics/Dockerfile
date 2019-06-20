@@ -6,4 +6,4 @@ RUN apk add socat bash php
 
 WORKDIR /app/Bash-HTTP-Server
 
-CMD [ "./server.sh", "4000" ]
+CMD [ "./server.sh", "9000" ]
