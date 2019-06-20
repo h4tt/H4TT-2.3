@@ -44,6 +44,9 @@ MIME_header(){
     *.pdf)
       echo "application/pdf"
       ;;
+    *.zip)
+      echo "application/zip"
+      ;;
     *)
       echo "text/html"
   esac
