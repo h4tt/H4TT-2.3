@@ -1,0 +1,4 @@
+In the source of the security page, there is a comment with the flag.
+<!-- This is just a reminder that the server admin password is flag{c0mm3nt_n0t_4_s3cr3ts} -->
+
+flag{c0mm3nt_n0t_4_s3cr3ts}
