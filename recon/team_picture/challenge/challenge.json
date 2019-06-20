@@ -1,0 +1,14 @@
+{
+    "title": "Team Picture",
+    "category": "recon",
+    "description": "Healthbiotics has some great team pics! Can you find the original image it was taken from?",
+    "link": "https://healthbiotics.h4tt.ca",
+    "points": "40",
+    "flag": "flag{dr34m_t34m}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson"
+  }

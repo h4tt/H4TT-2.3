@@ -1,0 +1,14 @@
+{
+    "title": "A Note From The Devs (Healthbiotics track)",
+    "category": "web",
+    "description": "Nat thinks he's got the server on lock and key, but I think we can find that key.",
+    "link": "healthbiotics.h4tt.ca",
+    "points": "15",
+    "flag": "flag{c0mm3nt_n0t_4_s3cr3ts}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson and Nathaniel Woodthorpe"
+  }
