@@ -29,6 +29,8 @@
 
 [Historic | 40](https://github.com/h4tt/H4TT-2.3/tree/master/recon/historic)
 
+[Team Picture | 40](https://github.com/h4tt/H4TT-2.3/tree/master/recon/team_picture)
+
 ## stego
 [Art | 10](https://github.com/h4tt/H4TT-2.3/tree/master/stego/art)
 
@@ -45,5 +47,11 @@
 [Out of the Blue | 100](https://github.com/h4tt/H4TT-2.3/tree/master/stego/out_of_the_blue)
 
 ## web
-[Diggy Diggy Hole! | 40](https://github.com/h4tt/H4TT-2.3/tree/master/web/diggy_diggy_hole)
+[A Note From The Devs (Healthbiotics track) | 15](https://github.com/h4tt/H4TT-2.3/tree/master/web/a_note_from_the_devs)
+
+[Secure Reminder (Healthbiotics track) | 15](https://github.com/h4tt/H4TT-2.3/tree/master/web/secure_reminder)
+
+[One two miss a few (Healthbiotics track) | 35](https://github.com/h4tt/H4TT-2.3/tree/master/web/one_two_miss_a_few)
+
+[Diggy Diggy Hole! (Healthbiotics track) | 40](https://github.com/h4tt/H4TT-2.3/tree/master/web/diggy_diggy_hole)
 
