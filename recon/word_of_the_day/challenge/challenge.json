@@ -1,0 +1,14 @@
+{
+    "title": "Word Of The Day",
+    "category": "recon",
+    "description": "What was the New York Times word of the day on Nov 9 2016? The flag is in the format flag{word_lowercase}",
+    "link": "https://www.nytimes.com/column/learning-word-of-the-day",
+    "points": "35",
+    "flag": "flag{promiscuous}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson"
+  }

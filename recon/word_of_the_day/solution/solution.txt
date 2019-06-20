@@ -1,0 +1,4 @@
+By using the Wayback Machine, you are able to navigate to the date and see the word.
+https://archive.org/web/
+
+flag{promiscuous}

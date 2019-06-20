@@ -17,6 +17,8 @@
 [Do you even permute? | 35](https://github.com/h4tt/H4TT-2.3/tree/master/misc/do_you_even_permute)
 
 ## recon
+[Word Of The Day | 35](https://github.com/h4tt/H4TT-2.3/tree/master/recon/word_of_the_day)
+
 [Historic | 40](https://github.com/h4tt/H4TT-2.3/tree/master/recon/historic)
 
 ## stego
