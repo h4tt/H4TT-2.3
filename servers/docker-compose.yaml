@@ -23,3 +23,9 @@ services:
     ports:
       - "9000:9000"
     restart: always
+
+  networks:
+    default:
+      external:
+        name: ctfdashb_default
+        
