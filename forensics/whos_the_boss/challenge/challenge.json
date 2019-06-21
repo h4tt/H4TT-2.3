@@ -2,7 +2,7 @@
     "title": "Who's the boss (Docker track 2)",
     "category": "forensics",
     "description": "D0n't ev3n try to h4xx, ur n0t sy5 4dmin",
-    "link": "https://hub.docker.com/r/angelonfira/company-secrets",
+    "link": "https://healthbiotics.h4tt.ca/site/docker.html",
     "points": "35",
     "flag": "flag{d0nt_d0ubt_my_cr3ds}",
     "max_tries": "99",
