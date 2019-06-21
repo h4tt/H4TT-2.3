@@ -11,8 +11,6 @@
 ## forensics
 [Proof of Containerize (Docker track 1) | 15](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/proof_of_containerize)
 
-[What the Jeff? | 25](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/what_the_jeff)
-
 [Who's the boss (Docker track 2) | 35](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/whos_the_boss)
 
 [Zippy | 40](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/zippy)
@@ -25,6 +23,8 @@
 [Do you even permute? | 35](https://github.com/h4tt/H4TT-2.3/tree/master/misc/do_you_even_permute)
 
 ## recon
+[What the Jeff? | 25](https://github.com/h4tt/H4TT-2.3/tree/master/recon/what_the_jeff)
+
 [Word Of The Day | 35](https://github.com/h4tt/H4TT-2.3/tree/master/recon/word_of_the_day)
 
 [Historic | 40](https://github.com/h4tt/H4TT-2.3/tree/master/recon/historic)
@@ -48,8 +48,6 @@
 
 ## web
 [A Note From The Devs (Healthbiotics track) | 15](https://github.com/h4tt/H4TT-2.3/tree/master/web/a_note_from_the_devs)
-
-[Secure Reminder (Healthbiotics track) | 15](https://github.com/h4tt/H4TT-2.3/tree/master/web/secure_reminder)
 
 [One two miss a few (Healthbiotics track) | 35](https://github.com/h4tt/H4TT-2.3/tree/master/web/one_two_miss_a_few)
 
