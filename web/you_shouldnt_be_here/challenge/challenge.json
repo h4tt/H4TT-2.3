@@ -1,0 +1,14 @@
+{
+    "title": "You shouldn't be here (Healthbiotics track)",
+    "category": "web",
+    "description": "I thought someone would have stopped you from coming in.",
+    "link": "https://healthbiotics.h4tt.ca",
+    "points": "60",
+    "flag": "flag{c1imbing_th3_dir_l4dd3r}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson and Nathaniel Woodthorpe"
+  }

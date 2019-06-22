@@ -1,6 +1,8 @@
+Junior password
+
 Password has 6-8 characters
-Password only contains letters (upper and lower), and numbers
-Every 2nd character must be an odd number
+Password only contains lower case letters and numbers
+Of course, the first 3 characters have to be "jr-" to denote a junior passoword
 
 How many different passwords are there?
 

@@ -4,7 +4,7 @@
     "description": "But this is just ascii?",
     "link": "",
     "points": "50",
-    "flag": "",
+    "flag": "flag{1nv1s1bl3-1nk}",
     "max_tries": "99",
     "active": "0",
     "files": [
