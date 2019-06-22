@@ -8,6 +8,8 @@
 
 [Invading Space | 40](https://github.com/h4tt/H4TT-2.3/tree/master/crypto/invading_space)
 
+[/\/\[-$$ \|/!'|'# '|'#[- |3[-$'|', |)![- |_!|<[- '|'#[- /2[-$'|' | 50](https://github.com/h4tt/H4TT-2.3/tree/master/crypto/mess_with_the_best)
+
 ## forensics
 [Proof of Containerize (Docker track 1) | 15](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/proof_of_containerize)
 
