@@ -1,10 +1,10 @@
 {
-    "title": "Do you even permute?",
+    "title": "Junior Password",
     "category": "misc",
     "description": "",
-    "link": "",
-    "points": "35",
-    "flag": "",
+    "link": "https://healthbiotics.h4tt.ca/site/passwords.html",
+    "points": "25",
+    "flag": "flag{pr0m0ti0n_tim3}",
     "max_tries": "99",
     "active": "0",
     "files": [
