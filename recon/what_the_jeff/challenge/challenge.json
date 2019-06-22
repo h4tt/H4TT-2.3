@@ -1,6 +1,6 @@
 {
     "title": "What the Jeff?",
-    "category": "forensics",
+    "category": "recon",
     "description": "In which commit did Jeff Welch get added to the AUTHORS file of React repo on Github?\nThe flag is flag{commit_hash_lowercase}",
     "link": "https://github.com/facebook/react/blob/master/AUTHORS",
     "points": "25",

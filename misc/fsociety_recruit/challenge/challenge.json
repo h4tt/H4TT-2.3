@@ -1,0 +1,14 @@
+{
+    "title": "Fsociety Recruit",
+    "category": "misc",
+    "description": "Welcome to the Fsociety! But before we let you in, what's the password?\nHint: Did you watch the Healthbiotics video yet? There might be something there...",
+    "link": "https://www.youtube.com/watch?v=8r-gJ1BeCHk",
+    "points": "5",
+    "flag": "flag{w3lcome_t0_fs0c}",
+    "max_tries": "99",
+    "active": "0",
+    "files": [
+        ""
+    ],
+    "author": "Forest Anderson"
+  }

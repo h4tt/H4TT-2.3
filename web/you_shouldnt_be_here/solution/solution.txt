@@ -1,0 +1,3 @@
+The flag is up a directory, and the web server will serve whatever path it is told. However, an RFC https://tools.ietf.org/html/rfc3986#section-5.4 talks about removing dot-segments from urls. That means https://healthbiotics.h4tt.ca/../flag.txt will be parsed to https://healthbiotics.h4tt.ca/flag.txt by anything that complies to this RFC. You can either use something in the middle (Burp Suite) to change the request, or use something that can disable the complience.
+
+flag{c1imbing_th3_dir_l4dd3r}
