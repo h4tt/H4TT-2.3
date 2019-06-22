@@ -24,8 +24,8 @@ services:
       - "9000:9000"
     restart: always
 
-  networks:
-    default:
-      external:
-        name: ctfd_default
+networks:
+  default:
+    external:
+      name: ctfd_default
         
