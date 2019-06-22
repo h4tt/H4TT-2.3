@@ -27,5 +27,5 @@ services:
   networks:
     default:
       external:
-        name: ctfdashb_default
+        name: ctfd_default
         
