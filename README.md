@@ -19,6 +19,8 @@
 
 [Who's the boss (Docker track 2) | 35](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/whos_the_boss)
 
+[FerRARi | 40](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/ferrari)
+
 [Zippy | 40](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/zippy)
 
 [Spilled Corruption | 50](https://github.com/h4tt/H4TT-2.3/tree/master/forensics/spilled_corruption)
